@@ -80,7 +80,7 @@ AI客服作品集_GitHub/
     └── faq_samples.md                5 条脱敏 FAQ 样例
 ```
 
-> GitHub 仓库简介（可直接复制）：**AI 客服智能体：业务规则设计与持续运营（脱敏）** —— 把客服业务流程、服务责任和处理权限翻译成智能体可执行的规则：九类 Guardrails 边界设计、1,157 条 FAQ 知识库体系、八类 badcase 类型学，以及两个真实业务案例，其中一个证明了"自助解决率上升"和"用户流失 50%"可以同时发生。
+> GitHub 仓库简介：**AI 客服智能体：业务规则设计与持续运营（脱敏）** —— 把客服业务流程、服务责任和处理权限翻译成智能体可执行的规则：九类 Guardrails 边界设计、1,157 条 FAQ 知识库体系、八类 badcase 类型学，以及两个真实业务案例，其中一个证明了"自助解决率上升"和"用户流失 50%"可以同时发生。
 >
 > Topics 建议：`ai-agent` `customer-service` `prompt-engineering` `knowledge-base` `operations` `chatbot-design`
 
